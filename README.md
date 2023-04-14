@@ -1,2 +1,18 @@
-# mobile_application_development
-Mobile Application Development
+# MOBILE APPLICATION DEVELOPMENT
+
+### NAME:
+     MUHAMMAD MUAAZ SHOAIB
+
+### REGISTRATION NUMBER:
+     FA20-BCS-074
+
+### CLASS:
+     BCS-6B
+
+### SUBMITTED TO:
+     MR. MUHAMMAD KAMRAN
+
+### SEMESTER:
+     SP23
+
+
